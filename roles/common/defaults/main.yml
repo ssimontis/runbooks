@@ -1,0 +1,14 @@
+---
+# defaults file for common
+host:
+  name: atmosphere
+  domain: scottsimontis.io
+
+networking:
+  ip6:
+    enable: false
+  ip4:
+    enable: true
+    static: true
+    address: 192.168.0.1
+    gateway: 192.168.0.254

@@ -35,3 +35,16 @@ process to help with this.
 - Jetbrains PyCharm for creating an awesome development environment
 - The Ansible team for making sane configuration management a reality
 - Everyone who taught me about DevOps and encouraged me along the way
+
+[contributors-shield]: https://img.shields.io/github/contributors/ssimontis/runbooks.svg?style=for-the-badge
+[contributors-url]: https://github.com/ssimontis/runbooks/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ssimontis/runbooks.svg?style=social&label=Fork&maxAge=2592000
+[forks-url]: https://github.com/ssimontis/runbooks/network/members
+[stars-shield]: https://img.shields.io/github/stars/ssimontis/runbooks.svg?style=for-the-badge
+[stars-url]: https://github.com/ssimontis/runbooks/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ssimontis/runbooks.svg?style=for-the-badge
+[issues-url]: https://github.com/ssimontis/runbooks/issues
+[license-shield]: https://img.shields.io/github/license/ssimontis/runbooks.svg
+[license-url]: https://github.com/ssimontis/runbooks/blob/main/LICENSE.md
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/scottsimontis

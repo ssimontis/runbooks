@@ -1,0 +1,5 @@
+
+{% if networking.ip4.enable %}
+127.0.0.1 localhost.localdomain localhost
+{{ ansible_facts['default_ipv4']['address'] }} {{ hostvars[inventory_hostname] }} {{ hostvars[inventory_hostname }}
+{% endif %}
